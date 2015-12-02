@@ -1,0 +1,2 @@
+IRIS+- is an extension of the IRIS datalog engine (http://www.iris-reasoner.org/) supporting Datalog+- rules and query rewriting.
+IRIS+- also implements an efficient storage metamodel for logic-based languages embeddable in Datalog+-.
